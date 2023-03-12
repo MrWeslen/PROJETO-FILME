@@ -15,7 +15,7 @@
     align-items: center; 
 }
 body{
-    background-color: rgb(231, 216, 195);
+    background-color: rgb(0, 0, 0);
     background-image: url(https://www.projetodraft.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-12-at-11.16.38-AM.png); 
     position: relative;
 	height: 100%;
@@ -29,7 +29,7 @@ body{
     background-color: #ffffff80;
     padding: 30px;
     border-radius: 4%;
-    box-shadow: 3px 3px 1px 0px #0b0fddc0;
+    box-shadow: 3px 3px 1px 0px #000000c0;
     width: 400px;
 }
 
@@ -115,7 +115,7 @@ button:hover{
     color: #2a30cc;
 }
 .fa-eye:hover{
-    color: aqua;
+    color: rgb(0, 0, 0);
 }
 
 #msgErro{

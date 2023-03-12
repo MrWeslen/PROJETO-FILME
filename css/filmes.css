@@ -11,10 +11,7 @@
     --card-scale: 5;
 }
 
-.music{
-    background:rgba(104, 104, 104, 1) ;
-    
-}
+
 
 html,
 body {
@@ -54,7 +51,7 @@ a {
     color: rgba(230, 230, 230, 1);
 }
 
-/* HEADER */
+/* HEADER - cabeçalho */
 .header {
     width: 100%;
     position: fixed;
@@ -200,9 +197,9 @@ a {
     background-color: white;
     color: black;
 }
-/* END HEADER */
+/* END HEADER - fim do cabeçalho*/
 
-/* TOP SECTION */
+/* TOP SECTION - SEÇÃO SUPERIOR */
 .top {
     width: 100%;
     min-height: 250px;
@@ -346,9 +343,9 @@ a {
     background-color: var(--grey-selected);
     cursor: pointer;
 }
-/* END TOP SECTION*/
+/* END TOP SECTION - fim da SEÇÃO SUPERIOR*/
 
-/* MID SECTION */
+/* MID SECTION - seção do meio */
 .mid {
     display: flex;
     flex-direction: column;
@@ -644,7 +641,7 @@ a {
     flex-direction: column;
     margin-bottom: 40px;
     height: 500px;
-    background-image: url("//external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fwww.trenovision.com%2Fwp-content%2Fuploads%2F2019%2F10%2F553ada2b9135a3ccdfaaaf31346403dd.png%3Fresize%3D730%252C418%26ssl%3D1&f=1&nofb=1");
+    background-image: url("../img/POBRE.png");
     background-size: cover;
     background-repeat: no-repeat;
 }

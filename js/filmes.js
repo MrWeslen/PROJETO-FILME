@@ -398,7 +398,7 @@ const AddCards = () => {
                         }
                     });
 
-                    // Set the height for the modal image
+                    // Definir a altura da imagem modal
                     let total_width = document.getElementsByClassName(
                         "modal-content"
                     )[0].clientWidth;
@@ -407,7 +407,7 @@ const AddCards = () => {
                         "desc-image"
                     )[0].style.height = `${1080 * (large_scale / 100)}px`;
 
-                    // Set image for cast
+                    // Definir imagem para cast
                     for (let c = 0; c < cast.length; c++) {
                         let cast_block = document.createElement("div");
                         cast_block.classList.add("cast-card");
