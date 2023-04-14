@@ -9,7 +9,7 @@ let num_cards_GLOBAL = 5;
         title: "Alita - Anjo de combate",
         description:
             "Abandonada em um ferro-velho de Iron City, a ciborgue Alita é encontrada pelo cientista Dyson Ido. Revitalizada, ela acorda sem memória e reconhecimento do mundo em que se encontra. Determinada a conhecer seu passado e explorar suas habilidades surpreendentes de luta, Alita se torna uma poderosa caçadora de recompensas, combatendo forças mortais.",
-        Source: ""
+        Source: "https://drive.google.com/file/d/1iuQXE8R11xjCd95GJ8nWBGOFUAXAlti6/view"
         },
     {
         background: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMx77vEKeER_bY0SBbiN8PHMjcOonVWB3PF8EZswvRb_CmQikUF_dae1D_oQ1QAqB3TC7WP4jhqtbrkXZCiiehHxvE-OMnUffQ1BDIx900nUMnfT-VmcwbqO42afMasgVFFAt1a9I1mv_0rJaOeWWAfuj21jYV56Fi7X_zgxUnq9oPNk19BXfMFA8X/s2240/3875B9CF-45BB-4564-8364-BD891B924CF3.png",
@@ -46,7 +46,7 @@ let num_cards_GLOBAL = 5;
         title: "Pantera Negra",
         description:
             "Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa.",
-            Source: "https://drive.google.com/file/d/11TqUgoWVMpjX1eC8MCXJv-EDDrV0Xr0P/view"
+            Source: "https://drive.google.com/file/d/16qP5PXShxzr1lQuOyiUzbBdCoWSn6YHr/view"
     },
     {
         background:
