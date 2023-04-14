@@ -1,9 +1,6 @@
-
-
-
 let num_cards_GLOBAL = 5;
 
-let cards = [
+ let cards = [
     {
         background:
             "https://cloud.estacaonerd.com/wp-content/uploads/2019/02/09145633/alita-capa.jpg",
@@ -11,15 +8,17 @@ let cards = [
             "https://cdn.ome.lt/5kiT3YgMGvcuy2DdlXm_DYxRApM=/987x0/smart/uploads/conteudo/fotos/alita-2_2Qwc4Am.jpg",
         title: "Alita - Anjo de combate",
         description:
-            "Abandonada em um ferro-velho de Iron City, a ciborgue Alita é encontrada pelo cientista Dyson Ido. Revitalizada, ela acorda sem memória e reconhecimento do mundo em que se encontra. Determinada a conhecer seu passado e explorar suas habilidades surpreendentes de luta, Alita se torna uma poderosa caçadora de recompensas, combatendo forças mortais."
-    },
+            "Abandonada em um ferro-velho de Iron City, a ciborgue Alita é encontrada pelo cientista Dyson Ido. Revitalizada, ela acorda sem memória e reconhecimento do mundo em que se encontra. Determinada a conhecer seu passado e explorar suas habilidades surpreendentes de luta, Alita se torna uma poderosa caçadora de recompensas, combatendo forças mortais.",
+        Source: ""
+        },
     {
         background: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMx77vEKeER_bY0SBbiN8PHMjcOonVWB3PF8EZswvRb_CmQikUF_dae1D_oQ1QAqB3TC7WP4jhqtbrkXZCiiehHxvE-OMnUffQ1BDIx900nUMnfT-VmcwbqO42afMasgVFFAt1a9I1mv_0rJaOeWWAfuj21jYV56Fi7X_zgxUnq9oPNk19BXfMFA8X/s2240/3875B9CF-45BB-4564-8364-BD891B924CF3.png",
         display_background:
             "https://blognroll.com.br/wp-content/uploads/2023/01/Gato-de-Botas-2.jpeg",
         title: "Gato de botas 2",
         description:
-            "O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele já gastou oito de suas nove vidas. Ele então parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas"
+            "O Gato de Botas descobre que sua paixão pela aventura cobrou seu preço: ele já gastou oito de suas nove vidas. Ele então parte em uma jornada épica para encontrar o mítico Último Desejo e restaurar suas nove vidas",
+            Source: "https://drive.google.com/file/d/1aoOO0Pm295YHWyAx4ltHNfZhU4NpV4WN/view"
     },
     {
         background:
@@ -28,7 +27,8 @@ let cards = [
             "https://sampi.net.br/dir-arquivo-imagem/2023/03/1518d4aaaa7317c66b356f7ae1a94f5c.jpg",
         title: "Tudo em Todo o Lugar ao Mesmo Tempo",
         description:
-            "Uma ruptura interdimensional bagunça a realidade e uma inesperada heroína precisa usar seus novos poderes para lutar contra os perigos bizarros do multiverso."
+            "Uma ruptura interdimensional bagunça a realidade e uma inesperada heroína precisa usar seus novos poderes para lutar contra os perigos bizarros do multiverso.",
+        Source: "https://drive.google.com/file/d/1cF6D5o39Bpu-iyXMdni9R0SNmKKlRr_3/view"
     },
     {
         background:
@@ -37,72 +37,67 @@ let cards = [
             "https://ingresso-a.akamaihd.net/b2b/production/uploads/article/image/869/tudo-sobre-adao-negro-capa.jpg",
         title: "Adão Negro",
         description:
-            "O poderoso Adão Negro é libertado de sua tumba para lançar sua justiça cruel sobre a Terra."
+            "O poderoso Adão Negro é libertado de sua tumba para lançar sua justiça cruel sobre a Terra.",
+            Source: "https://drive.google.com/file/d/1UJWqeJpu-QV0IXLLdAabW9N5kzC9Wkj5/view"
     },
     {
         background:
             "https://s2.glbimg.com/XioSuIFV333aIri7OG_53dZlUAc=/0x0:1200x800/984x0/smart/filters:strip_icc/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/J/5/u2iKfXRAKjYMOzbEGaDg/53.png",
         title: "Pantera Negra",
         description:
-            "Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa."
+            "Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa.",
+            Source: "https://drive.google.com/file/d/11TqUgoWVMpjX1eC8MCXJv-EDDrV0Xr0P/view"
     },
     {
         background:
             "https://conteudo.imguol.com.br/c/entretenimento/d6/2022/09/29/a-queda-mistura-emocao-e-adrenalina-1664457890688_v2_900x506.jpg.webp",
         title: "A QUEDA",
         description:
-            "Para as melhores amigas Becky e Hunter, a vida é sobre vencer medos e ultrapassar limites. No entanto, depois de subir 600 metros até o topo de uma torre de rádio remota e abandonada, elas acabam presas lá em cima. Agora, suas habilidades de escalada são colocadas à prova enquanto lutam desesperadamente para sobreviver aos elementos, a falta de suprimentos e a altura vertiginosa."
+            "Para as melhores amigas Becky e Hunter, a vida é sobre vencer medos e ultrapassar limites. No entanto, depois de subir 600 metros até o topo de uma torre de rádio remota e abandonada, elas acabam presas lá em cima. Agora, suas habilidades de escalada são colocadas à prova enquanto lutam desesperadamente para sobreviver aos elementos, a falta de suprimentos e a altura vertiginosa.",
+            Source: "https://drive.google.com/file/d/1-OysYAWp1gbq-k3Ny8xxk1VFbqaqrsPc/view"
     },
     {
         background:
             "https://www.portaldecamaqua.com.br/images/noticia/img_54353_foto_1_g.jpg",
         title: "A mulher rei",
         description:
-            "Em 1800, o general Nanisca treina um grupo de mulheres guerreiras para proteger o reino africano de Dahomey de um inimigo estrangeiro."
+            "Em 1800, o general Nanisca treina um grupo de mulheres guerreiras para proteger o reino africano de Dahomey de um inimigo estrangeiro.",
+            Source: "https://drive.google.com/file/d/1V6nTnNTr289KgExRF7J2QF-jHv1fRZT0/view"
     },
     {
         background:
             "https://poltronanerd.com.br/wp-content/uploads/2022/06/Hustle-Adam-Sandler-netflix.jpg",
         title: "Arremessando alto",
         description:
-            "Um olheiro de basquete azarado encontra um jogador com um grande potencial e se esforça para mostrar ao mundo que os dois merecem chegar à NBA."
-    },
+            "Um olheiro de basquete azarado encontra um jogador com um grande potencial e se esforça para mostrar ao mundo que os dois merecem chegar à NBA.",
+            Source: ""
+     },
     {
         background:
             "https://1.bp.blogspot.com/-gfhnWU3rr7I/YA8iTkni8eI/AAAAAAAAMMA/lLjkqCBwvVwgpkUMwBb4TkZxXE-I3hH6wCLcBGAsYHQ/s1000/irm%25C3%25A3o%2Burso.png",
         title: "Irmão Urso",
         description:
-            "Kenai é um bravo jovem índio com uma aversão especial por ursos. Quando seu irmão Sitka é morto por um, Kenai mata o urso, mas é magicamente transformado em um deles. Para piorar a situação, seu outro irmão, Denahi, jura matar o urso que Kenai se tornou. A única esperança de Kenai é uma montanha mágica, onde ele acredita que pode ser transformado de volta em um ser humano e ele pede a Koda, um verdadeiro filhote de urso, para ajudá-lo a chegar lá."
-    },
+            "Kenai é um bravo jovem índio com uma aversão especial por ursos. Quando seu irmão Sitka é morto por um, Kenai mata o urso, mas é magicamente transformado em um deles. Para piorar a situação, seu outro irmão, Denahi, jura matar o urso que Kenai se tornou. A única esperança de Kenai é uma montanha mágica, onde ele acredita que pode ser transformado de volta em um ser humano e ele pede a Koda, um verdadeiro filhote de urso, para ajudá-lo a chegar lá.",
+            Source: "https://drive.google.com/file/d/1-CyVeij_MVLHELJKr9BmoBV4iSaq6WBO/view?usp=share_link"
+     },
     {
         background:
             "https://imagoi.com/wp-content/uploads/2021/05/irmao-urso-2-capa-imagoi.jpg",
         title: "Irmão urso 2",
         description:
-            "Um urso grande chamado Kenai estava hibernando e, quando acorda faminto, sai para comer amoras com seu irmão menor Koda Kenai encontra sua antiga amiga de infância Nita, que tem um problema para resolver. Nita deseja se casar, mas primeiro tem que queimar o amuleto que ganhou de Kenai nas Cataratas Hokani acompanhada por ele."
+            "Um urso grande chamado Kenai estava hibernando e, quando acorda faminto, sai para comer amoras com seu irmão menor Koda Kenai encontra sua antiga amiga de infância Nita, que tem um problema para resolver. Nita deseja se casar, mas primeiro tem que queimar o amuleto que ganhou de Kenai nas Cataratas Hokani acompanhada por ele.",
+            Source: "https://drive.google.com/file/d/1-ABZjBgq_3ZYEPKicbVXuiT9AgHkgAXg/view?usp=share_link"
+     },
+    {
+        background:
+            "http://4.bp.blogspot.com/_f8CI4dol58s/Ripvx8TwUMI/AAAAAAAAAQg/l1w1rSIIWHQ/s1600/Clube+da+Luta+Sab%C3%83%C2%A3o.jpg",
+        title: "Clube da luta",
+        description:
+        "Um homem deprimido que sofre de insônia conhece um estranho vendedor chamado Tyler Durden e se vê morando em uma casa suja depois que seu perfeito apartamento é destruído. A dupla forma um clube com regras rígidas onde homens lutam. A parceria perfeita é comprometida quando uma mulher, Marla, atrai a atenção de Tyler.",
+        Source: "https://drive.google.com/file/d/1kzvmHQo6ayIxYypYCJMiaLH_NiajROSZ/view"
     }
 ];
 
-let cast = [
-    {
-        picture:
-            "//external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.scdn.co%2Fimage%2F338040ea81df8012c152cfa65a4c1b440a94a1bc&f=1&nofb=1",
-        square: 1000,
-        name: "Will Smith"
-    },
-    {
-        picture:
-            "//external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fsiskiyou.sou.edu%2Fwp-content%2Fuploads%2F2014%2F10%2FRobin.jpg&f=1&nofb=1",
-        square: 2000,
-        name: "Robin Williams"
-    },
-    {
-        picture:
-            "//external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.byrdie.com%2Fthmb%2FaSjYcUqubm-ucpugLMuN8m-nvdU%3D%2F796x700%2Ffilters%3Ano_upscale()%3Amax_bytes(150000)%3Astrip_icc()%2Fcdn.cliqueinc.com__cache__posts__237400__jennifer-lawrence-hairstyles-237400-1506716140954-main.700x0c-af3f438528ea44f0aa9c3c1fe3ef8c64.jpg&f=1&nofb=1",
-        square: 700,
-        name: "Jennifer Lawrence"
-    }
-];
 
 const IsMobile = () => {
     let width =
@@ -255,7 +250,7 @@ const AddCards = () => {
             card.classList.add("card");
             card.style.backgroundImage = `url(${chosen_card.background})`;
 
-            //If image doesn't load
+            //se imagem não carregar
             card.style.backgroundColor = `#333`;
 
             card.style.width = initial_width * (scale / 100) + "px";
@@ -280,7 +275,13 @@ const AddCards = () => {
   <path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/>
 </svg>`;
             button1.classList.add("watch");
+            button1.addEventListener("click", function () {
+                console.log("filme ", chosen_card.Source )
+                 watchNow(`${chosen_card.Source}`) 
+            });
 
+            
+           
             let button2 = document.createElement("div");
             button2.innerHTML = `<svg fill="currentColor" viewBox="0 0 16 16">
   <path d="M8 3.5a.5.5 0 0 0-1 0V9a.5.5 0 0 0 .252.434l3.5 2a.5.5 0 0 0 .496-.868L8 8.71V3.5z"/>
@@ -376,10 +377,7 @@ const AddCards = () => {
                     let bottom_info = document.createElement("div");
                     bottom_info.classList.add("desc-bottom");
 
-                    let cast_slider = document.createElement("div");
-                    cast_slider.classList.add("cast");
-
-                    bottom_info.append(cast_slider);
+                  
 
                     modal_content.append(
                         bg_image,
@@ -407,18 +405,7 @@ const AddCards = () => {
                         "desc-image"
                     )[0].style.height = `${1080 * (large_scale / 100)}px`;
 
-                    // Definir imagem para cast
-                    for (let c = 0; c < cast.length; c++) {
-                        let cast_block = document.createElement("div");
-                        cast_block.classList.add("cast-card");
-                        cast_block.style.backgroundImage = `url("${cast[c].picture}")`;
-                        cast_block.style.width = 100 / cast.length - 5 + "%";
-                        cast_block.style.height = `calc(${
-                            document.getElementsByClassName("cast")[0]
-                                .clientWidth / cast.length
-                        }"px" - 5%)`;
-                        cast_slider.append(cast_block);
-                    }
+                 
                 }
             });
 
@@ -614,3 +601,8 @@ const ToggleWatchLater = (movie = "", activate = true) => {
 };
 
 
+/** TESTEEEE */
+
+function watchNow (movies){
+    window.location.href = movies
+};
