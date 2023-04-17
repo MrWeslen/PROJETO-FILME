@@ -325,6 +325,10 @@ a {
     background-color: var(--red);
 }
 
+a.traillerUnico{
+    color: aliceblue;
+}
+
 .queue {
     color: white;
     display: flex;
@@ -639,7 +643,7 @@ a {
     flex-direction: column;
     margin-bottom: 40px;
     height: 500px;
-    background-image: url("../img/POBRE.png");
+    background-image: url("https://pm1.narvii.com/6668/822fbee2471dc3de0e3b329a05c3636c133ea060_hq.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }

@@ -3,7 +3,7 @@ let num_cards_GLOBAL = 5;
  let cards = [
     {
         background:
-            "https://cloud.estacaonerd.com/wp-content/uploads/2019/02/09145633/alita-capa.jpg",
+            "https://cafecomnerd.com.br/wp-content/uploads/2021/02/alita-anjo-de-combate-2-sequencia-com-o-diretor-robert-rodriguez-pode-acontecer-no-streaming.jpg",
         display_background:
             "https://cdn.ome.lt/5kiT3YgMGvcuy2DdlXm_DYxRApM=/987x0/smart/uploads/conteudo/fotos/alita-2_2Qwc4Am.jpg",
         title: "Alita - Anjo de combate",
@@ -12,7 +12,7 @@ let num_cards_GLOBAL = 5;
         Source: "https://drive.google.com/file/d/1iuQXE8R11xjCd95GJ8nWBGOFUAXAlti6/view"
         },
     {
-        background: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMx77vEKeER_bY0SBbiN8PHMjcOonVWB3PF8EZswvRb_CmQikUF_dae1D_oQ1QAqB3TC7WP4jhqtbrkXZCiiehHxvE-OMnUffQ1BDIx900nUMnfT-VmcwbqO42afMasgVFFAt1a9I1mv_0rJaOeWWAfuj21jYV56Fi7X_zgxUnq9oPNk19BXfMFA8X/s2240/3875B9CF-45BB-4564-8364-BD891B924CF3.png",
+        background: "../img/gatinho2.jpg",
         display_background:
             "https://blognroll.com.br/wp-content/uploads/2023/01/Gato-de-Botas-2.jpeg",
         title: "Gato de botas 2",
@@ -32,7 +32,7 @@ let num_cards_GLOBAL = 5;
     },
     {
         background:
-            "https://gkpb.com.br/wp-content/uploads/2022/10/adao-negro-scaled-e1665680179489.jpg",
+            "https://chatterboxfilm.com/wp-content/uploads/2022/06/16546545168992604020237937246684.png",
         display_background:
             "https://ingresso-a.akamaihd.net/b2b/production/uploads/article/image/869/tudo-sobre-adao-negro-capa.jpg",
         title: "Adão Negro",
@@ -42,7 +42,7 @@ let num_cards_GLOBAL = 5;
     },
     {
         background:
-            "https://s2.glbimg.com/XioSuIFV333aIri7OG_53dZlUAc=/0x0:1200x800/984x0/smart/filters:strip_icc/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/J/5/u2iKfXRAKjYMOzbEGaDg/53.png",
+            "https://moviesbillboard.net/wp-content/uploads/2022/11/1259132.jpg",
         title: "Pantera Negra",
         description:
             "Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa.",
@@ -50,7 +50,7 @@ let num_cards_GLOBAL = 5;
     },
     {
         background:
-            "https://conteudo.imguol.com.br/c/entretenimento/d6/2022/09/29/a-queda-mistura-emocao-e-adrenalina-1664457890688_v2_900x506.jpg.webp",
+            "https://i.ytimg.com/vi/Wj3xP4wKWjc/maxresdefault.jpg",
         title: "A QUEDA",
         description:
             "Para as melhores amigas Becky e Hunter, a vida é sobre vencer medos e ultrapassar limites. No entanto, depois de subir 600 metros até o topo de uma torre de rádio remota e abandonada, elas acabam presas lá em cima. Agora, suas habilidades de escalada são colocadas à prova enquanto lutam desesperadamente para sobreviver aos elementos, a falta de suprimentos e a altura vertiginosa.",
@@ -66,7 +66,7 @@ let num_cards_GLOBAL = 5;
     },
     {
         background:
-            "https://poltronanerd.com.br/wp-content/uploads/2022/06/Hustle-Adam-Sandler-netflix.jpg",
+            "https://i.ytimg.com/vi/s1FMRql-IvE/maxresdefault.jpg",
         title: "Arremessando alto",
         description:
             "Um olheiro de basquete azarado encontra um jogador com um grande potencial e se esforça para mostrar ao mundo que os dois merecem chegar à NBA.",
@@ -95,9 +95,104 @@ let num_cards_GLOBAL = 5;
         description:
         "Um homem deprimido que sofre de insônia conhece um estranho vendedor chamado Tyler Durden e se vê morando em uma casa suja depois que seu perfeito apartamento é destruído. A dupla forma um clube com regras rígidas onde homens lutam. A parceria perfeita é comprometida quando uma mulher, Marla, atrai a atenção de Tyler.",
         Source: "https://drive.google.com/file/d/1kzvmHQo6ayIxYypYCJMiaLH_NiajROSZ/view"
+
+    },
+    {
+        background:
+            "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/FAD2FB1FDAFB1E25A8953376F4E76C6D1D35876E2785307FF1E2896F2575705D/scale?width=1200&aspectRatio=1.78&format=jpeg",
+        title: "viva - a vida é uma festa",
+        description:
+        "Apesar da proibição da música por gerações de sua família, o jovem Miguel sonha em se tornar um músico talentoso como seu ídolo Ernesto de la Cruz. Desesperado para provar seu talento, Miguel se encontra na deslumbrante e colorida Terra dos Mortos. Depois de conhecer um charmoso malandro chamado Héctor, os dois novos amigos embarcam em uma jornada extraordinária para desvendar a verdadeira história por trás da história da família de Miguel.",
+        Source: "https://drive.google.com/file/d/1eUPquPyJ0m6PfP1ylfuM2hJxRNpRcqNO/view?usp=share_link"
+
+    },
+    {
+        background:
+            "https://i0.wp.com/lr1.com.br/wp-content/uploads/2019/06/TOY-STORY-1-1557085533-1561118060417.png?fit=600%2C291&ssl=1",
+        title: "Toy Story 4",
+        description:
+        "Woody, Buzz Lightyear e o resto da turma embarcam em uma viagem com Bonnie e um novo brinquedo chamado Forky. A aventura logo se transforma em uma reunião inesperada quando o ligeiro desvio que Woody faz o leva ao seu amigo há muito perdido, Bo Peep.",
+        Source: "https://drive.google.com/file/d/10Gxd-qMYb2u1JayWrZI81wvpZp-Ho2Ga/view?usp=share_link"
+
+    },
+    {
+        background:
+            "https://www.justwatch.com/images/backdrop/304229120/s640/spirit-o-corcel-indomavel",
+        title: "Spirit: O Corcel Indomável",
+        description:
+        "Animação sobre a amizade entre um menino indígena e um cavalo indomável apaixonado por uma égua. Ambientada no Velho Oeste americano, mostra o impacto do processo civilizatório na vida dos três e também na amizade que construíram.",
+        Source: "https://drive.google.com/file/d/1L_y_Cufqde0VRrZyYmnvQXMAQuXlBc4F/view?usp=share_link"
+
+    },
+    {
+        background:
+            "https://www.cinegoiania.com.br/wp-content/uploads/2019/03/a-cinco-passos-de-voce.jpg",
+        title: "A Cinco Passos de Você",
+        description:
+        "Stella passa muito tempo no hospital por causa de uma fibrose cística. Lá, ela conhece Will, que sofre da mesma doença. Eles são obrigados a manter distância, mas mesmo assim se apaixonam.",
+        Source: "https://drive.google.com/file/d/1wyWQUD7KsDcsktNAsDlKH3cV7bTP8wfz/view?usp=share_link"
+
+    },
+    {
+        background:
+            "https://i.ytimg.com/vi/l5Mw0VD0wgA/maxresdefault.jpg",
+        title: "Por Lugares Incríveis",
+        description:
+        "Dois adolescentes que estão passando por momentos difíceis criam um forte laço quando embarcam em uma jornada transformadora para visitar as maravilhas do estado de Indiana, nos Estados Unidos.",
+        Source: "https://drive.google.com/drive/folders/1MiXgvRD59sE1ZbkOnl1QgozT2C_T3ZPA"
+
+    },
+    {
+        background:
+            "https://4.bp.blogspot.com/-p1Vi2Ws3ENI/WtEi4SkjvwI/AAAAAAAAPz0/GYw1qpQfTOknampKlXdsFqSuypV1bJWAQCK4BGAYYCw/s1600/truque%2Bde%2Bmestre.png",
+        title: "Truque de Mestre 2",
+        description:
+        "Depois de enganar o FBI, Daniel Atlas, Merritt McKinney e Jack Wilder estão foragidos. Eles seguem as ordens de Dylan Rhodes, que continua trabalhando no FBI para impedir os avanços na procura de Daniel, Merritt e Jack. Paralelamente, o grupo planeja seu novo ato: desmascarar um jovem gênio da informática, cujo novo lançamento coleta dados pessoais dos usuários.",
+        Source: "https://drive.google.com/file/d/1K1kaU8OUk39utKEEj7UXn4Vmg4eGNaVU/view"
+
+    },
+    {
+        background:
+            "https://wp-uploads.qualbert.com/2023/03/Dnd-wallpaper.jpg",
+        title: "Dungeons & Dragons: Honra Entre Rebeldes",
+        description:
+        "Um ladrão e um bando de aventureiros embarcam em uma jornada épica para recuperar uma relíquia.",
+        Source: "https://drive.google.com/file/d/1CcQFOmwgfTBP1idDMJNBi4atgcWBAvey/view"
+
+    },
+    {
+        background:
+            "https://www.aconteceempetropolis.com.br/wp-content/uploads/2022/05/CF58DC91-437B-4A1F-B586-63D044460B0F.jpeg",
+        title: "Doutor Estranho no Multiverso da Loucura",
+        description:
+        "O aguardado filme trata da jornada do Doutor Estranho rumo ao desconhecido. Além de receber ajuda de novos aliados místicos e outros já conhecidos do público, o personagem atravessa as realidades alternativas incompreensíveis e perigosas do Multiverso para enfrentar um novo e misterioso adversário.",
+        Source: "https://drive.google.com/file/d/10v7cR7KaDuKNnQEBzvJo2MW3oCXFDHzK/view"
+
+    },
+    {
+        background:
+            "https://disneyplusbrasil.com.br/wp-content/uploads/2021/07/Raya-e-o-Ultimo-Dragao-Disney-Plus.jpg",
+        title: "Raya e o Último Dragão",
+        description:
+        "Há muito tempo, no mundo de fantasia de Kumandra, humanos e dragões viviam juntos em harmonia. Mas quando uma força maligna ameaçou a terra, os dragões se sacrificaram para salvar a humanidade. Agora, 500 anos depois, o mesmo mal voltou e cabe a uma guerreira solitária, Raya, rastrear o lendário último dragão para restaurar a terra despedaçada e seu povo dividido.",
+        Source: "https://drive.google.com/file/d/1nO5-LZbK1FpOIP6UQ2CXTl4e2BaDtMJo/view"
+
     }
+  /**  {
+     background:
+            "",
+        title: "",
+        description:
+        "",
+        Source: ""
+
+    }
+     */  
+    
 ];
 
+
+   
 
 const IsMobile = () => {
     let width =
@@ -146,7 +241,7 @@ const CheckSizeAttributes = () => {
 
     num_cards_GLOBAL = new_num_cards;
 };
-
+//Configuração do navBAR
 const ResizeHeader = () => {
     let width =
         window.innerWidth ||
@@ -275,12 +370,17 @@ const AddCards = () => {
   <path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z"/>
 </svg>`;
             button1.classList.add("watch");
+
             button1.addEventListener("click", function () {
                 console.log("filme ", chosen_card.Source )
                  watchNow(`${chosen_card.Source}`) 
             });
 
-            
+            //Função para o player do filme funcionar
+            function watchNow (movies){
+                window.location.href = movies
+            };
+                    
            
             let button2 = document.createElement("div");
             button2.innerHTML = `<svg fill="currentColor" viewBox="0 0 16 16">
@@ -601,8 +701,18 @@ const ToggleWatchLater = (movie = "", activate = true) => {
 };
 
 
-/** TESTEEEE */
+// TEEEEEEEEEEEEEEEEEEEEEESTE
 
-function watchNow (movies){
-    window.location.href = movies
-};
+
+var player;
+function onYouTubeIframeAPIReady() {
+  player = new YT.Player('player', {
+    height: '150',
+    width: '300',
+    videoId: 'Hgupo95fulk'
+  });
+}
+
+
+  
+  

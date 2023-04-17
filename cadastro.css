@@ -16,7 +16,7 @@
 }
 body{
     background-color: rgb(0, 0, 0);
-    background-image: url(https://www.projetodraft.com/wp-content/uploads/2017/07/Screen-Shot-2017-07-12-at-11.16.38-AM.png); 
+    background-image: url(https://w.forfun.com/fetch/89/898282fa13d69f3c3700ff76595f4e40.jpeg); 
     position: relative;
 	height: 100%;
 	background-repeat: no-repeat;
@@ -36,7 +36,7 @@ body{
 h1{
     text-align: center;
     margin-bottom: 20px;
-    color:#2a30cc;
+    color:#000000c0;
 }
 
 .label-float input{
@@ -44,7 +44,7 @@ h1{
     padding: 5px 5px;
     display: inline-block;
     border: 0;
-    border-bottom: 2px solid #2a30cc;
+    border-bottom: 2px solid #000000c0;
     background-color: transparent;
     outline: none;
     min-width: 180px;
@@ -60,13 +60,13 @@ h1{
 }
 
 .label-float input:focus{
-    border-bottom: 2px solid #2a30cc;
+    border-bottom: 2px solid #000000c0;
     
 }
 
 .label-float label{
 
-    color: #2a30cc;
+    color: #000000c0;
     pointer-events: none;
     position: absolute;
     top: 0;
@@ -80,12 +80,12 @@ h1{
 .label-float input:valid + label{
     font-size: 13px;
     margin-top: 0;
-    color: #2365e0;
+    color: #000000c0;
 }
 
 button{
     background-color: transparent;
-    border-color: #2a30cc;
+    border-color: #000000c0;
     padding: 7px;
     font-weight: bold;
     font-size: 12pt;
@@ -93,12 +93,12 @@ button{
     border-radius: 4px;
     cursor: pointer;
     outline: none;
-    color: #2a30cc;
+    color: #000000c0;
     transition: all .4s ease-out;
 }
 
 button:hover{
-    background-color: #2a30cc;
+    background-color: #000000c0;
     color: #fff;
 }
 
@@ -112,7 +112,7 @@ button:hover{
     top: 15px;
     right: 10px;
     cursor: pointer;
-    color: #2a30cc;
+    color: #000000c0;
 }
 .fa-eye:hover{
     color: rgb(0, 0, 0);
