@@ -177,17 +177,17 @@ let num_cards_GLOBAL = 5;
         "Há muito tempo, no mundo de fantasia de Kumandra, humanos e dragões viviam juntos em harmonia. Mas quando uma força maligna ameaçou a terra, os dragões se sacrificaram para salvar a humanidade. Agora, 500 anos depois, o mesmo mal voltou e cabe a uma guerreira solitária, Raya, rastrear o lendário último dragão para restaurar a terra despedaçada e seu povo dividido.",
         Source: "https://drive.google.com/file/d/1nO5-LZbK1FpOIP6UQ2CXTl4e2BaDtMJo/view"
 
-    }
-  /**  {
+    },
+   {
      background:
-            "",
-        title: "",
+            "https://universonintendo.com/wp-content/uploads/2023/02/Super-Mario-Bros.-%E2%80%93-O-Filme-Scrn18022023.jpg",
+        title: "Super Mario Bros. O Film",
         description:
-        "",
-        Source: ""
+        "Mario é um encanador junto com seu irmão Luigi. Um dia, eles vão parar no reino dos cogumelos, governado pela Princesa Peach, mas ameaçado pelo rei dos Koopas, que faz de tudo para conseguir reinar em todos os lugares.",
+        Source: "https://drive.google.com/file/d/1JBPQe2L8JWHqpGRR67WYiuqqA3RSOUJM/view"
 
     }
-     */  
+     
     
 ];
 
