@@ -186,8 +186,7 @@ let num_cards_GLOBAL = 5;
         "Mario é um encanador junto com seu irmão Luigi. Um dia, eles vão parar no reino dos cogumelos, governado pela Princesa Peach, mas ameaçado pelo rei dos Koopas, que faz de tudo para conseguir reinar em todos os lugares.",
         Source: "https://drive.google.com/file/d/1JBPQe2L8JWHqpGRR67WYiuqqA3RSOUJM/view"
 
-    }
-     
+    },
     
 ];
 
